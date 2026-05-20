@@ -4,6 +4,8 @@
 >
 > If you read only one section first, read **§3 The 12 Pillars** and **§5 Multi-Tenancy** — those two ideas dictate every other decision in this document.
 
+> Companion to [`🤖 The AI SaaS Playbook (Practical Edition)📘`](https://dev.to/truongpx396/the-ai-saas-playbook-practical-edition-33lb) (how to add AI),[`🏗️ Building High-Quality AI Agents 🤖 — A Comprehensive, Actionable Field Guide 📚`](https://dev.to/truongpx396/building-high-quality-ai-agents-a-comprehensive-actionable-field-guide-5m1) (agentic systems), [`🛠️ The Senior Software Engineer Playbook 📖: From Good Coder to High-Impact Engineer 🚀`](https://dev.to/truongpx396/the-senior-software-engineer-playbook-from-good-coder-high-impact-engineer-36id) (software engineering), and [`🦸 The Solo-Founder Playbook: Zero Hero 🚀`](https://dev.to/truongpx396/the-solo-founder-playbook-zero-hero-3j7d) (operating alone). 
+
 ---
 
 ## 📋 Table of Contents
